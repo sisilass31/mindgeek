@@ -1,0 +1,10 @@
+Toutes les données :
+
+	de taille des polices
+	de couleurs et autres
+
+Sont données dans la maquette figma.
+
+ATTENTION !!!
+La police Candal est une police google font :
+https://fonts.google.com/?query=candal
